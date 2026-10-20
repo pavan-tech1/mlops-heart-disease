@@ -7,3 +7,6 @@ joblib==1.6.0
 mlflow==3.17.1
 pytest==9.1.1
 ruff
+fastapi
+uvicorn
+prometheus-fastapi-instrumentator
