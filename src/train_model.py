@@ -11,7 +11,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-
 DATA_PATH = Path("data/raw/heart_disease.csv")
 MODEL_PATH = Path("models/heart_disease_logistic_regression.pkl")
 
